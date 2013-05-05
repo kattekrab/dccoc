@@ -4,7 +4,7 @@ DrupalCon brings together people from around the world who use, develop, design,
 
 The [Drupal Code of Conduct](http://drupal.org/dcoc) outlines our shared ideals and values. This document expresses how we hope to make these ideals real at our conferences and other events. Our goal is to ensure that all participants can freely and openly share ideas in a friendly, safe, and welcoming environment that encourages and inspires mutual respect and collaboration.
 
-## Come for the Software, stay for the community. ##
+## Come for the software, stay for the community. ##
 
 Drupal would simply not exist without its community. We want all attendees at DrupalCon to have an awesome experience, both in and out of formal conference sessions.
 
@@ -46,3 +46,5 @@ The DrupalCon team wants everyone to feel safe for the duration of the conferenc
 Thanks for making DrupalCon awesome for everyone!
 
 The DrupalCon Code of Conduct is licensed under a Creative Commons Attribution 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/) and is available for others to use and adapt for their own events.
+
+(portland version)
