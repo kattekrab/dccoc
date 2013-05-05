@@ -8,7 +8,7 @@ The [Drupal Code of Conduct](http://drupal.org/dcoc) outlines our shared ideals 
 
 Drupal would simply not exist without its community. We want all attendees at DrupalCon to have an awesome experience, both in and out of formal conference sessions.
 
-The purpose of this document is not to restrict the diversity of ideas and expression in the Drupal community; rather, it's to raise awareness of the potential for actions that could alienate valuable members — and potential members — of the community.
+The purpose of this document is not to restrict the diversity of ideas and expression in the Drupal community; rather, it's to raise awareness of the potential for actions that could alienate valuable members — and potential members — of the community.
 
 ## We are considerate. ##
 
