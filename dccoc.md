@@ -42,11 +42,11 @@ If the matter is especially urgent, please call/contact any of these individuals
 
 The DrupalCon team wants everyone to feel safe for the duration of the conference. If necessary, conference staff are empowered to take appropriate actions that may include, but are not limited to, warnings, expulsion from the conference without refund, and referrals to venue security or local law enforcement.
 
-## We’re all in this together. ##
+## We're all in this together. ##
 
 Thanks for making DrupalCon awesome for everyone!
 
-The DrupalCon Code of Conduct is licensed under a Creative Commons Attribution 3.0 Unported License (http://creativecommons.org/licenses/bysa/3.0/) and is available for others to use and adapt for their own events.
+The DrupalCon Code of Conduct is licensed under a Creative Commons Attribution 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/) and is available for others to use and adapt for their own events.
 
 # SHORT VERSION (for conference booklet) #
 
